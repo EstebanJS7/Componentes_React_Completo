@@ -1,0 +1,36 @@
+.banner{
+    background: linear-gradient(
+    167.85deg,
+    rgba(13, 166, 255, 0.7) 0%,
+    rgba(0, 103, 177, 0.7) 10%,
+    rgba(3, 43, 83, 0.7) 60%
+  );
+    border-radius: 12px;
+    width: 95%;
+    height: 300px;
+    color: white;
+    display: flex;
+}
+
+
+.textbanner{
+    display: flex;
+    width: 48%;
+    font-family: 'Open Sans', sans-serif;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+}
+.textbanner > p{
+    margin-bottom: 35px;
+}
+.titlebanner{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 48%;
+    font-size: 52px;
+    
+}

@@ -1,0 +1,30 @@
+#root {
+  min-width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.ejercicio1{
+  display: flex;
+  justify-content: center;
+}
+
+.ejercicio2{
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+.ejercicio3{
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+.ejercicio4{
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}
